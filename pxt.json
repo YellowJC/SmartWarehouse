@@ -1,0 +1,21 @@
+{
+    "name": "智能仓库",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "OneNET": "github:ddhtxwd/microbit-onenet#3b2250d5d2be44949aea312e91aa3412a6fe331d"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
